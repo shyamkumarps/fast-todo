@@ -6,7 +6,7 @@ This is a FastAPI backend for a Todo application.
 
 [![Next-Todo Vercel Deployment](https://img.shields.io/badge/Deployment-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://fast-api-steel.vercel.app/)
 
-[https://fast-api-steel.vercel.app/](https://fast-api-steel.vercel.app/)
+[https://fast-todo-chi.vercel.app/](https://fast-todo-chi.vercel.app/)
 
 ### Getting Started
 

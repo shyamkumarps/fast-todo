@@ -8,7 +8,7 @@ app = FastAPI()
 # Configure CORS middleware
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:3000","http://127.0.0.1:8000","https://fast-api-steel.vercel.app/","https://next-todo-eta-ten.vercel.app/"],  # Replace with your front-end origin
+    allow_origins=["http://localhost:3000","http://127.0.0.1:8000","https://next-todo-eta-ten.vercel.app"],  # Replace with your front-end origin
     allow_credentials=True,
     allow_methods=["*"],  # Allow all methods (GET, POST, PUT, DELETE, etc.)
     allow_headers=["*"],  # Allow all headers
