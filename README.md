@@ -34,7 +34,13 @@ This is a FastAPI backend for a Todo application.
 
    ```bash
    python -m venv venv
-   source venv/bin/activate # On Windows use venv\Scripts\activate
+   source venv/bin/activate
+   ```
+
+   Or On Windows use
+
+   ```bash
+   venv\Scripts\activate
    ```
 
 3. **Install dependencies:**
