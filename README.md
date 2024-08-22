@@ -2,29 +2,54 @@
 
 This is a FastAPI backend for a Todo application.
 
-## Requirements
+### FastAPI Vercel End Point
+
+[![Next-Todo Vercel Deployment](https://img.shields.io/badge/Deployment-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://fast-api-steel.vercel.app/)
+
+[https://fast-api-steel.vercel.app/](https://fast-api-steel.vercel.app/)
+
+### Getting Started
+
+### Prerequisites
 
 - Python 3.x
 - FastAPI
 - Uvicorn
 
-## Setup
+### Setup
 
-1. Clone the repository:
+1. **Clone the repository:**
+
+   ```bash
    git clone https://github.com/your-username/fastapi-todo.git
-   cd fastapi-todo
+   ```
 
-2. Create and activate a virtual environment:
+   Navigate into the project directory:
+
+   ```bash
+   cd fastapi-todo
+   ```
+
+2. **Create and activate a virtual environment:**
+
+   ```bash
    python -m venv venv
    source venv/bin/activate # On Windows use venv\Scripts\activate
+   ```
 
-3. Install dependencies:
+3. **Install dependencies:**
+
+   ```bash
    pip install -r requirements.txt
+   ```
 
-4. Run the FastAPI server:
+4. **Run the FastAPI server:**
+
+   ```bash
    uvicorn main --reload
+   ```
 
-5. Open [http://localhost:8000](http://localhost:8000) to view the API documentation.
+5. **Open** [http://localhost:8000](http://localhost:8000) to view the API documentation.
 
 ## API Documentation
 
