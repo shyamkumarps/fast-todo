@@ -55,7 +55,7 @@ This is a FastAPI backend for a Todo application.
    uvicorn main --reload
    ```
 
-5. **Open** [http://localhost:8000](http://localhost:8000) to view the API documentation.
+5. **Open** [http://localhost:8000](http://localhost:8000) / [http://127.0.0.1:8000/](http://127.0.0.1:8000/) to view the API documentation.
 
 ## API Documentation
 
