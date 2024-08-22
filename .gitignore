@@ -1,0 +1,46 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.pkl
+*.egg-info/
+*.egg
+
+# Virtual Environment
+venv/
+fast-env/
+.env/
+
+# IDE and Editor
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+*.eml
+
+# Logs
+*.log
+
+# Build
+build/
+dist/
+*.egg-info/
+*.egg
+*.whl
+
+# Coverage
+.coverage
+coverage.xml
+nosetests.xml
+*.cover
+*.py,cover
+.cache
+*.hypothesis/
+
+# Environment Variables
+.env
+*.env
+
+# Local configuration files
+local_settings.py

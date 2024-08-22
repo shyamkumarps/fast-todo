@@ -25,3 +25,9 @@ This is a FastAPI backend for a Todo application.
    uvicorn main --reload
 
 5. Open [http://localhost:8000](http://localhost:8000) to view the API documentation.
+
+## API Documentation
+
+- **Swagger UI**: You can access the interactive API documentation at [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs). Swagger UI allows you to explore and test the API endpoints interactively.
+
+- **ReDoc**: Alternatively, you can view the API documentation in ReDoc format at [http://127.0.0.1:8000/redoc](http://127.0.0.1:8000/redoc). ReDoc provides a different style of API documentation.
